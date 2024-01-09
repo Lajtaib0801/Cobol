@@ -1,6 +1,6 @@
 000100 IDENTIFICATION DIVISION.
 000200 PROGRAM-ID. hello05.
-000300 
+000300
 000400* This PROGRAM will illustrate the incorrect placement OF a
 000500* paragraph that IS a target OF a PERFORM
 000600
